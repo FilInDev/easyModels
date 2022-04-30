@@ -1,0 +1,9 @@
+table {
+  height: 100%;
+  background-color: #c5f8fa;
+}
+
+td {
+  vertical-align: top;
+  text-align: center;
+}
