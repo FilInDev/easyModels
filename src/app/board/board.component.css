@@ -7,3 +7,14 @@ td {
   vertical-align: top;
   text-align: center;
 }
+.card{
+  background-color: #fff;
+  border: 1px #113435;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+}
+.card_block{
+  display: flex;
+  flex-wrap: wrap;
+}
